@@ -3,7 +3,7 @@
 //for the project found at https://robbieculkin.wordpress.com/2016/08/02/rgb-led-audio-visualizer/
 
 #include <Adafruit_NeoPixel.h> //https://github.com/adafruit/Adafruit_NeoPixel
-
+//Dan bAkrhorn
 // PINS & INFO
 #define STROBE           4
 #define RESET            6
